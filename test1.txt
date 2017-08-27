@@ -1,1 +1,7 @@
-a
+ got to the desired folder/
+   git init, git add filename/. ,git commit -m
+git rm --cached  filename(unstage )
+git reset HEAD filename(index points to prev commit)
+git reset --hard adfdg2g :deletes all other files othr than the one specified,sets file back to it
+
+ 
